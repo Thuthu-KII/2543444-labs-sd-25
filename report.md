@@ -18,11 +18,17 @@ Then i created a new branch called feature/student-details and switched to it (c
 
 Then i edited the html file, and included the heading as previoulsy i did not
 
-Then i commited the code in the branch
+Then i commited the code in the branch and name the commit "feature/student-details"
 
 Then i pushed all the changes i made in this branch using the command "git push origin feature/student-details"
 
-Then i merged the branch feature/student-details to the ,main branch using "git merge feature/student-details", 
+Then i merged the branch feature/student-details to the main branch using "git merge feature/student-details".
+
+Then i updated this file up to here stated all that i did.
+
+Then i coomited the changes and called the commit 
+
+Then i deployed
 
 
 
