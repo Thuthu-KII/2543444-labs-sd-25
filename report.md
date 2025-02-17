@@ -16,5 +16,13 @@ Then after commiting i pushed the code i have so far to Github using the command
 
 Then i created a new branch called feature/student-details and switched to it (changes in this branch wont affect the main branch)
 
+Then i edited the html file, and included the heading as previoulsy i did not
+
+Then i commited the code in the branch
+
+Then i pushed all the changes i made in this branch using the command "git push origin feature/student-details"
+
+Then i merged the branch feature/student-details to the ,main branch using "git merge feature/student-details", 
+
 
 
